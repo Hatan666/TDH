@@ -1,0 +1,868 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2025-03-22 12:42 UTC\n"
+"PO-Revision-Date: 2025-03-22 22:44+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#: TDH/_main.cfg:24
+msgid "TDH"
+msgstr "TDH"
+
+#: TDH/_main.cfg:35
+msgid "The Dark Hordes"
+msgstr "暗黒の大軍団"
+
+#: TDH/_main.cfg:38
+msgid "Apprentice"
+msgstr "見習い"
+
+#: TDH/_main.cfg:38
+msgid "Easy"
+msgstr "簡単"
+
+#: TDH/_main.cfg:39
+msgid "Master"
+msgstr "マスター"
+
+#: TDH/_main.cfg:39
+msgid "Normal"
+msgstr "易しい"
+
+#: TDH/_main.cfg:40
+msgid "Dark Lord"
+msgstr "暗黒の王"
+
+#: TDH/_main.cfg:40
+msgid "Hard"
+msgstr "難しい"
+
+#. [campaign]
+#: TDH/_main.cfg:46
+msgid "Episode I: Escape the Living"
+msgstr "第一章 生の逃走"
+
+#. [campaign]
+#: TDH/_main.cfg:52 TDH/_main.cfg:67
+msgid ""
+"Lead fugitive dark sorcerer Gwiti Ha’atel to mastery of the undead hordes."
+msgstr "逃走した黒魔術師 Gwiti Ha’atel を暗黒の大軍団の支配者に導くのだ。"
+
+#. [campaign]
+#: TDH/_main.cfg:54 TDH/_main.cfg:69
+msgid "(Intermediate level, 9 scenarios.)"
+msgstr "（中級レベル、9 シナリオ）"
+
+#. [campaign]
+#: TDH/_main.cfg:61
+msgid "Episode II: The Death March"
+msgstr "第二章 死の行軍"
+
+#. [about]
+#: TDH/about.cfg:4
+msgid "Creator and Original Designer"
+msgstr "制作者とオリジナルデザイナー"
+
+#. [about]
+#: TDH/about.cfg:10
+msgid "Campaign Maintenance and Completion"
+msgstr "キャンペーン保守と完成"
+
+#. [about]
+#: TDH/about.cfg:16
+msgid "Map Redesign Assistance"
+msgstr "マップの再デザイン支援"
+
+#. [about]
+#: TDH/about.cfg:25
+msgid "Previous Campaign Maintenance"
+msgstr "以前のキャンペーン保守"
+
+#. [about]
+#: TDH/about.cfg:40
+msgid "Artwork and Graphics Design"
+msgstr "アートワークと美術デザイン"
+
+#. [about]
+#: TDH/about.cfg:58
+msgid "Additional thanks to"
+msgstr "さらなる感謝を"
+
+#. [note]
+#: TDH/macros/macros.cfg:5
+msgid "The schedule is 12 turns."
+msgstr "スケジュールは 12 ターンです。"
+
+#. [part]
+#: TDH/macros/storytxt.cfg:6
+msgid "1095 YW"
+msgstr "Wesnoth 歴 1095 年"
+
+#. [part]
+#: TDH/macros/storytxt.cfg:7
+msgid ""
+"At a great battle at the Stone of Erzen, the brothers Gwiti and Nati Ha’atel "
+"showed their skills for the first time: thinking that their side was losing "
+"the battle, they called upon the corpses of former enemies to rise again and "
+"fight on their side."
+msgstr ""
+"Erzen の石での大戦において、Gwiti と Nati Ha’atel の兄弟は初めて彼らの力を披"
+"露した。自分達の陣営が戦いに破れそうだと考えた彼らは、倒れた敵を蘇えらせ、仲"
+"間として戦わせたのであった。"
+
+#. [part]
+#: TDH/macros/storytxt.cfg:11
+msgid ""
+"However, not only was this forbidden, but rash as well. The cavalry meant to "
+"come as reinforcements instead clashed with the undead legions, and so the "
+"battle was lost where it would have been won had it not been for these two "
+"dark sorcerers."
+msgstr ""
+"しかしながら、これは禁じられていただけでなく、性急過ぎでもあった。騎兵隊が増"
+"援軍として参加するつもりが、代わりにこのアンデッド軍団と衝突してしまい、この"
+"二人の降霊術師がいなければ勝てていたはずのその戦いは、敗北を喫する事となっ"
+"た。"
+
+#. [part]
+#: TDH/macros/storytxt.cfg:15
+msgid ""
+"The Ha’atel brothers fled. However, they were seized by the Wesnothians not "
+"long after. They were clapped in irons, marched onto a ship with no rudder, "
+"and sent off to drown in the sea, for the Wesnothians feared that their "
+"corpses might only rise again."
+msgstr ""
+"Ha’atel 兄弟は逃げたが、直ちに Wesnoth 人に捕らえられた。彼らは、鉄の足かせで"
+"舵のない船の上まで歩かさせられ、海の底へと沈めるために送り出された。Wesnoth "
+"人は、二人の亡骸が再び蘇える事を恐れたのである。"
+
+#. [part]
+#: TDH/macros/storytxt.cfg:19
+msgid ""
+"But Fate intervened. The ship carrying Gwiti and Nati was beset by a sudden "
+"storm and disintegrated, separating the brothers and washing them both "
+"ashore. This was the beginning of the Rise of the Dark Hordes."
+msgstr ""
+"だが運命は逆転した。Gwiti と Nati を乗せたその船は突然の嵐に巻き込まれて分解"
+"し、兄弟を離れ離れにして、岸に押し流した。これこそ、暗黒の大軍団の蜂起の始ま"
+"りであった。"
+
+#. [part]
+#: TDH/macros/storytxt.cfg:28
+msgid ""
+"Gwiti found the survivors of the coastal cult who had been hiding and "
+"brought them under his control. They had lost sight of their respective "
+"goals, along with their master, but the accursed being who had suddenly "
+"appeared claimed to lead them."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:32
+msgid ""
+"As Gwiti explored the unknown land with Arkal-Thil, he ran into his brother."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:40
+msgid "Still wandering the unknown land, Gwiti entered lands of the Orcs."
+msgstr "依然、謎の土地を探索していると、Gwiti はオーク族の国に入り込んだ。"
+
+#. [part]
+#: TDH/macros/storytxt.cfg:44
+msgid ""
+"They all bore skull-topped banners. But one of these skulls was special..."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:53
+msgid "1096 YW"
+msgstr "Wesnoth 歴 1096 年"
+
+#. [part]
+#: TDH/macros/storytxt.cfg:54
+msgid ""
+"Furious at the Skull’s lack of power, Gwiti decided to seize a different "
+"artifact, the Book of Crelanu."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:63
+msgid ""
+"According to the journal Gwiti recovered, after the death of Delfador the "
+"Great, the tradition was started to entrust the Book with the King’s closest "
+"advisor."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:66
+msgid ""
+"This turned out to be a costly mistake, sparking the greatest undead "
+"invasion Wesnoth had ever seen."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:70
+msgid ""
+"After this, no mage dared take guardianship of the Book. Instead, they "
+"decided to hide Crelanu’s work where none would find it, while spreading "
+"rumors that it was guarded in the Tower of Kaleon."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:73
+msgid ""
+"Five centuries later, Gwiti retraced their steps, which led him to a war-"
+"torn valley."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:82
+msgid "1097 YW"
+msgstr "Wesnoth 歴 1097 年"
+
+#. [part]
+#: TDH/macros/storytxt.cfg:83
+msgid ""
+"However, the march of Gwiti was reported to Wesnoth by one of the scouts who "
+"had seen him."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:91
+msgid ""
+"Gwiti and Tanar rushed into the maze of twisting little passages, quickly "
+"leaving the humans behind. But not much later, they ran into dwarves..."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:99
+msgid ""
+"Crossing the pool did not take long and soon the orcs and undead marched on "
+"through the damp cave, into the mountain. While the orcs shivered in the "
+"magical air, Gwiti spent some time reading the Tome."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:108
+msgid ""
+"The orcs and undead easily defended the cave stronghold and when the water "
+"subsided, the nagas were driven off or slain, their magical artifact "
+"exhausted."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:111
+msgid "And the long months passed..."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:119
+msgid "1099 YW"
+msgstr "Wesnoth 歴 1099 年"
+
+#. [part]
+#: TDH/macros/storytxt.cfg:120
+msgid ""
+"Gwiti finished studying the Tome of Crelanu and departed for where he "
+"believed the other half of Morgorath’s skull to be. The orcs, restless "
+"without an enemy to fight, eagerly followed."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:129
+msgid ""
+"Gwiti’s research directed him north, further into the orcish lands. "
+"Eventually, he could sense the presence of the skull’s other half. The "
+"feeling led him to what appeared to be an orcish capital."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:138
+msgid ""
+"Tanar decided to use the death of the would-be Great Chiefs to subject the "
+"local tribes to his own rule. Plans to jointly invade Wesnoth were discussed."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:141
+msgid ""
+"Gwiti knew that as long as paladins and magi roamed the land, any invasion "
+"would be severely hindered. So he decided to strike at the source of his "
+"problems: Alduin."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:150
+msgid ""
+"With the magi out of the way, Gwiti was ready to begin his invasion, "
+"starting at the city of Aldril."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:159
+msgid ""
+"Unknown to Gwiti, several magi present on Alduin had survived his attack. "
+"Faced with a danger beyond their own ability, they contacted outside help, "
+"the slayer of the Necromancer-Emperor."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:167
+msgid ""
+"After defeating Elynia, Gwiti aimed for Weldyn. In the middle of his march "
+"route was the city of Dan’Tonk."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:175
+msgid ""
+"An unexpected confrontation with Morgorath weakened Gwiti’s forces. He fled "
+"to the northeast, deciding to proceed in hiding into Glyn’s Forest."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:183
+msgid "1100 YW"
+msgstr "Wesnoth 歴 1100 年"
+
+#. [part]
+#: TDH/macros/storytxt.cfg:184
+msgid ""
+"Gwiti survived being turned on by the orcs and managed to escape eastwards."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:188
+msgid ""
+"The Northern Alliance had sent military aid and with two armies hunting for "
+"him, Gwiti was trapped in the Estmarks."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:191
+msgid ""
+"He spent months evading patrols while trying to build his strength back up. "
+"Eventually, he was hunted down by a rather familiar elf."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:199
+msgid ""
+"But shortly before his doom, Gwiti was transported to another realm by an "
+"unknown power..."
+msgstr ""
+
+#. [part]
+#: TDH/macros/storytxt.cfg:202
+msgid "And then he awoke."
+msgstr ""
+
+#. [scenario]: id=01_A_New_Chance
+#: TDH/scenarios/01_A_New_Chance.cfg:5
+msgid "A New Chance"
+msgstr "新たなチャンス"
+
+#. [side]: type=Initiate, id=Gwiti Ha'atel
+#: TDH/scenarios/01_A_New_Chance.cfg:20
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:33
+msgid "Gwiti Ha’atel"
+msgstr "Gwiti Ha’atel"
+
+#. [side]: type=Initiate, id=Gwiti Ha'atel
+#: TDH/scenarios/01_A_New_Chance.cfg:28
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:40
+msgid "team_name^Gwiti"
+msgstr "Gwiti"
+
+#. [side]: type=Naga Warrior, id=Xabrak
+#: TDH/scenarios/01_A_New_Chance.cfg:37
+msgid "Xabrak"
+msgstr "Xabrak"
+
+#. [side]: type=Naga Warrior, id=Xabrak
+#: TDH/scenarios/01_A_New_Chance.cfg:50
+msgid "team_name^Xabrak"
+msgstr "Xabrak"
+
+#. [side]: type=Ogre, id=Grakarat
+#: TDH/scenarios/01_A_New_Chance.cfg:61
+msgid "Grakarat"
+msgstr "Grakarat"
+
+#. [side]: type=Ogre, id=Grakarat
+#: TDH/scenarios/01_A_New_Chance.cfg:75
+msgid "team_name^Grakarat"
+msgstr "Grakarat"
+
+#. [unit]: type=Ogre, id=Rek Iceheart
+#: TDH/scenarios/01_A_New_Chance.cfg:82
+msgid "Rek Iceheart"
+msgstr "Rek Iceheart"
+
+#. [objective]: condition=win
+#: TDH/scenarios/01_A_New_Chance.cfg:103 TDH/scenarios/01_A_New_Chance.cfg:275
+msgid "Clear the land of monsters"
+msgstr "モンスターを一掃する"
+
+#. [objective]: condition=lose
+#: TDH/scenarios/01_A_New_Chance.cfg:107 TDH/scenarios/01_A_New_Chance.cfg:279
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:86
+msgid "Death of Gwiti Ha’atel"
+msgstr "Gwiti Ha’atel の死"
+
+#. [message]: speaker=narrator
+#: TDH/scenarios/01_A_New_Chance.cfg:127
+msgid ""
+"After his banishment from Wesnoth for practicing necromancy, the young Gwiti "
+"Ha’atel arrived on a strange shore. He decided to claim it for his own."
+msgstr ""
+"降霊術を学んだ為に Wesnoth から追放された後、若い Gwiti Ha’atel は奇妙な海岸"
+"へ辿り着いた。彼はそこを自分のものとする事を決意した。"
+
+#. [message]: speaker=Gwiti Ha'atel
+#: TDH/scenarios/01_A_New_Chance.cfg:132
+msgid ""
+"Apparently the gods have not yet completely abandoned me. The smell of the "
+"beast is in the air around here — perhaps they are the material for testing "
+"whether I shall survive."
+msgstr ""
+"どうやら神々はまだ完全に私を見捨ててはいないようだ。この辺りには獣の臭いがす"
+"る。おそらく私が生き延びられるかどうかを試す材料となるだろう。"
+
+#. [message]: speaker=Gwiti Ha'atel
+#: TDH/scenarios/01_A_New_Chance.cfg:136
+msgid ""
+"Not sure why, but this ruin is filled with bones and souls... as if the dead "
+"bearing their regrets were waiting for me. This is to my convenience."
+msgstr ""
+"何故だか分からないが、この廃墟には骨と魂が満ちている... まるで無念を抱えた死"
+"者達が私を待っていたかのようだ。これは私にとっては、好都合だ。"
+
+#. [message]: speaker=Gwiti Ha'atel
+#: TDH/scenarios/01_A_New_Chance.cfg:144
+msgid ""
+"But I only wonder where my brother has disappeared to. Do the gods know that "
+"one surviving Ha’atel is enough?"
+msgstr ""
+"だが兄弟がどこに消えたのか気になる。神々は一人の Ha’atel だけが生き残れば十分"
+"だと考えているだろうか？"
+
+#. [message]: speaker=Gwiti Ha'atel
+#: TDH/scenarios/01_A_New_Chance.cfg:152
+msgid ""
+"These monsters are not worthy of being real opponents with whom I should "
+"confront. Even their souls shall serve my power."
+msgstr ""
+"これらの怪物は私が向き合うべき真の敵となる価値もない。彼らの魂すら私の力とな"
+"るだろう。"
+
+#. [message]: speaker=Arkal-Thil
+#: TDH/scenarios/01_A_New_Chance.cfg:156
+msgid "Where do we go from here, master?"
+msgstr "我らはどこへ向かうのですか、主人よ？"
+
+#. [message]: speaker=Gwiti Ha'atel
+#: TDH/scenarios/01_A_New_Chance.cfg:160
+msgid ""
+"I must seek for Nati, for I do not believe he perished as a prey to the "
+"waves. Though my brother, he was always my obstacle. If he lives... he will "
+"eventually stand before me."
+msgstr ""
+"私は Nati を探さねばならない。彼が波の餌食となって死んだとは信じられん。彼は"
+"私の兄弟だが、常に私の障壁でもあった。彼もまた生きていれば... いずれ我が前に"
+"現れるだろう。"
+
+#. [message]: speaker=Arkal-Thil
+#: TDH/scenarios/01_A_New_Chance.cfg:164
+msgid ""
+"By the way, new master... there must be other brethren hiding besides me."
+msgstr "ところで、新しい主人... 私以外にも隠れている同朋がいるはずなのです。"
+
+#. [message]: speaker=Gwiti Ha'atel
+#: TDH/scenarios/01_A_New_Chance.cfg:168
+msgid ""
+"Your brethren? Looking back, the naga I killed also said some strange "
+"remarks. What transpired here?"
+msgstr ""
+"お前の同朋？思い返せば、私が倒したナーガも奇妙な事を言っていた。ここで何が"
+"あったのだ？"
+
+#. [message]: speaker=Arkal-Thil
+#: TDH/scenarios/01_A_New_Chance.cfg:172
+msgid ""
+"This beach was sacred ground for our cult, seekers of death’s power. But "
+"beasts attacked, our master’s strength failed... the rest were slaughtered, "
+"and the few survivors hid in shadows."
+msgstr ""
+"この浜辺は死の力を求める我らの教団の聖地でした。しかし獣どもが襲い、我らの師"
+"は力尽き... 残りの者たちは殺され、僅かな生存者は影に隠れました。"
+
+#. [message]: speaker=Gwiti Ha'atel
+#: TDH/scenarios/01_A_New_Chance.cfg:176
+msgid ""
+"Well, now I knew why there had been so many traces of death when I arrived. "
+"But now, the monsters that plagued you are destined to rise again as our "
+"puppets... right?"
+msgstr ""
+"なるほど、私が到着した時に、あれ程に多くの死の痕跡があった理由が分かったぞ。"
+"だが今や、お前達を悩ませた怪物どもは我らの操り人形として再び立ち上がる運命に"
+"ある... そうだろう？"
+
+#. [message]: speaker=unit
+#: TDH/scenarios/01_A_New_Chance.cfg:192
+msgid "Argh! I die!"
+msgstr "ああ！私は死ぬ！"
+
+#. [message]: speaker=unit
+#: TDH/scenarios/01_A_New_Chance.cfg:206
+msgid "Death is good for the nagas that bother me!"
+msgstr "私を邪魔するナーガどもには死がお似合いだ！"
+
+#. [message]: speaker=unit
+#: TDH/scenarios/01_A_New_Chance.cfg:217
+msgid ""
+"Where did he come from? We were supposed to have destroyed the cult in this "
+"area!"
+msgstr "奴はどこから現れた？この地域の教団は全て、壊滅させたはずだったのに！"
+
+#. [message]: speaker=Gwiti Ha'atel
+#: TDH/scenarios/01_A_New_Chance.cfg:221
+msgid "Cult? What is your saying?"
+msgstr "教団？何を言っている？"
+
+#. [message]: speaker=Gwiti Ha'atel
+#: TDH/scenarios/01_A_New_Chance.cfg:233
+msgid ""
+"Oops, there is someone hiding. Those who hide in the shadows of battle are "
+"doomed to a miserable end..."
+msgstr ""
+"おや、誰か隠れているな。戦いの影に隠れる者は、惨めな最期を迎える運命にあるが…"
+
+#. [unit]: id=Arkal-Thil, type=Dark Adept
+#: TDH/scenarios/01_A_New_Chance.cfg:239
+msgid "Arkal-Thil"
+msgstr "Arkal-Thil"
+
+#. [message]: speaker=Arkal-Thil
+#: TDH/scenarios/01_A_New_Chance.cfg:259
+msgid ""
+"Spare my life, I beg you! I was about to be devoured by them, but your "
+"darkness saved me..."
+msgstr ""
+"命乞いをします！あの者どもに喰らわれるところでしたが、あなたの闇が私を救って"
+"くれました..."
+
+#. [message]: speaker=Gwiti Ha'atel
+#: TDH/scenarios/01_A_New_Chance.cfg:264
+msgid ""
+"Are you of my own kind? If you want mercy and more necromancy, come with me. "
+"Obey me and you will become more mighty."
+msgstr ""
+"お前は私と同類か？慈悲と死霊術をさらに求めるなら、私と共に来るがいい。私に従"
+"えば、さらにお前は強大になれるだろう。"
+
+#. [message]: speaker=Arkal-Thil
+#: TDH/scenarios/01_A_New_Chance.cfg:269
+msgid ""
+"I sense power within you. The potential to surpass my father... I pledge "
+"myself to your hordes."
+msgstr ""
+"あなたの中に力を感じます。私の父を超える可能性を... あなたの軍勢にこの身を捧"
+"げましょう。"
+
+#. [objective]: condition=lose
+#: TDH/scenarios/01_A_New_Chance.cfg:283
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:90
+msgid "Death of Arkal-Thil"
+msgstr "Arkal-Thil の死"
+
+#. [message]: speaker=unit
+#: TDH/scenarios/01_A_New_Chance.cfg:302
+msgid "Noooo! Not now, not when I have escaped!"
+msgstr "そんな！今、脱出したばかりだったのに！"
+
+#. [message]: speaker=unit
+#: TDH/scenarios/01_A_New_Chance.cfg:316
+msgid "Oh no! Am I foolish enough to obey him, and die like this?"
+msgstr "ああ！彼に従い、こんな風に死ぬとは愚かだった！"
+
+#. [message]: speaker=Gwiti Ha'atel
+#: TDH/scenarios/01_A_New_Chance.cfg:327
+msgid "The Wesnothians have discovered my escape! This is not good..."
+msgstr "Wesnoth 人どもは私の脱走に気づいた！これはよくないぞ..."
+
+#. [scenario]: id=02_Brother_Against_Brother
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:5
+msgid "Brother Against Brother"
+msgstr "兄弟の争い"
+
+#. [side]: type=Deathmaster, id=Nati Ha'atel
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:48
+msgid "Nati Ha’atel"
+msgstr "Nati Ha’atel"
+
+#. [side]: type=Deathmaster, id=Nati Ha'atel
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:65
+msgid "team_name^Nati"
+msgstr "Nati"
+
+#. [objective]: condition=win
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:82
+msgid "Defeat your brother Nati Ha’atel"
+msgstr "兄弟 Nati Ha’atel を倒す"
+
+#. [message]: speaker=narrator
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:121
+msgid ""
+"As the sun set, Gwiti discovered that his arch-rival and brother, Nati, had "
+"already ensconced himself nearby."
+msgstr ""
+"日が沈むと、Gwiti は彼の弓のライバルであり、兄弟である Nati がそばに潜んでい"
+"た事に気づいた。"
+
+#. [message]: speaker=Gwiti Ha'atel
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:126
+msgid ""
+"Ah, hated brother mine. Look well upon the setting sun, for you shall not "
+"live to see another in this land."
+msgstr ""
+"あぁ、憎まれし我が兄弟よ。沈む太陽を見よ、そなたはこの国では二度と、生きて見"
+"る事はないのだ。"
+
+#. [message]: speaker=Nati Ha'atel
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:130
+msgid ""
+"This land? Do you truly not know where we are? Then you are a greater fool "
+"than I had thought."
+msgstr ""
+"この国、だと？お前は本当に、我らが何処にいるか分からぬのか？ならばそなたは、"
+"俺が思っていた以上の愚か者だ！"
+
+#. [message]: speaker=Gwiti Ha'atel
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:134
+msgid ""
+"Cease your blustering; the darkness shall always be upon my side. You must "
+"die to prove it."
+msgstr ""
+"口のきき方には気をつけるがよい、闇は常に我が陣営にあるのだから。そなたはその"
+"証として死すのだ。"
+
+#. [message]: speaker=Nati Ha'atel
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:138
+msgid ""
+"I will fight you with all my strength to prevent that, and I was always the "
+"stronger of us. Flee now and save your miserable hide before I make it a "
+"carpet."
+msgstr ""
+"それを防ぐため、全力を尽くしてお前と戦おう。私は常にお前よりも強かった。今す"
+"ぐ逃げ出して、敷物にされる前にみじめな隠れ家を守るがよい。"
+
+#. [message]: speaker=Gwiti Ha'atel
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:162
+msgid ""
+"Don’t be silly! I’m not hairy enough to be a carpet! But your scalp would "
+"make a good pillow."
+msgstr ""
+"馬鹿を言うな！敷物になるほど毛も生えておらぬわ！だが、お前の頭皮は良い枕にな"
+"るであろう。"
+
+#. [message]: speaker=Arkal-Thil
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:166
+msgid "Master, are you going to destroy your blood brother?"
+msgstr "師匠、血を分けた兄弟を滅ぼすつもりですか？"
+
+#. [message]: speaker=Gwiti Ha'atel
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:170
+msgid ""
+"One master leading the undead hordes is enough. And what choice would you "
+"make if you were in my shoes? Either you sacrifice yourself by insisting on "
+"flimsy brotherhood, or..."
+msgstr ""
+"不死の軍勢を率いる者は一人で充分だ。もしくは、お前が私の立場ならば、取る選択"
+"は何か？薄っぺらい兄弟愛を主張して自身を犠牲とするか、それとも..."
+
+#. [message]: speaker=Arkal-Thil
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:174
+msgid "I would obviously choose the latter too, as you say."
+msgstr "私は明らかに後者を取るでしょう、仰せのままに。"
+
+#. [message]: speaker=unit
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:185
+msgid "What? I can’t die! I already have! Noooo!"
+msgstr "何だと？私は死ねない！既に死んでおる！そんな馬鹿な！"
+
+#. [message]: speaker=Nati Ha'atel
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:189
+msgid ""
+"Ha ha ha, did I not tell you it would be so? Perhaps I shall summon your "
+"shade to serve me one day. Until then... farewell!"
+msgstr ""
+"ハハハ、そうなると言わなかったか？おそらく私はいつの日かお前の影を召喚し、私"
+"に仕えさせるであろう。その時まで... さらばだ！"
+
+#. [message]: speaker=unit
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:193
+msgid "It is over. I am doomed."
+msgstr "終わった。私の運は尽きた。"
+
+#. [message]: speaker=Nati Ha'atel
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:204
+msgid "Your doom is at hand!"
+msgstr "お前の破滅は目前だ！"
+
+#. [message]: speaker=Gwiti Ha'atel
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:215
+msgid ""
+"His legions are nothing more than a hodge-podge... It is only the matter of "
+"time before I beat him."
+msgstr ""
+"彼の軍団は寄せ集め以上の何でもない... 私が奴を打ち負かすまで時間の問題だ。"
+
+#. [message]: speaker=Arkal-Thil
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:219
+msgid ""
+"Very well. I am not sure if the showdown will end this evening, but you will "
+"surely be the last one standing."
+msgstr ""
+"結構です。対立がこの夜に終るかは分かりませんが、最後に立っているのは貴方で"
+"しょう。"
+
+#. [message]: speaker=Nati Ha'atel
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:228
+msgid ""
+"You miserable wretch, know that it is only by my mercy that you look upon "
+"the sun again, for you shall die before it sets."
+msgstr ""
+"慘めな下劣者よ、陽を再び拝めるのは、私の慈悲と思うが良い。陽が沈む前に死ぬの"
+"だからな。"
+
+#. [message]: speaker=Gwiti Ha'atel
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:232
+msgid ""
+"May I remind you that even as we speak, my undead legions are marching "
+"towards you?"
+msgstr ""
+"我々が話した事を思い出せ。我が不死身の軍団は、そなたに向かって進軍しているだ"
+"ろう？"
+
+#. [message]: speaker=Nati Ha'atel
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:243
+msgid ""
+"My foolish brother... Our doom began when we were born. You are just "
+"slightly longer-lasting in your luck."
+msgstr ""
+"我が愚かな兄弟よ... 我らの破滅は誕生より始まっていたのだ。そなたはただ少しば"
+"かり運が続いているだけだ。"
+
+#. [message]: speaker=Gwiti Ha'atel
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:247
+msgid ""
+"Is that all you want to say? I will surely stay alive and take revenge "
+"against Wesnoth. You must go to the Land of the Dead and prepare to join my "
+"hordes."
+msgstr ""
+"言う事はそれで全てか？俺は確実に生き残り、Wesnoth へ復讐を果たそう。貴様は死"
+"者の国へ行き、我が軍団に加わる準備をしろ。"
+
+#. [message]: speaker=Nati Ha'atel
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:252
+msgid ""
+"I curse you... You shall be killed like me and locked in a dream of darkness "
+"forever."
+msgstr ""
+"お前に呪いを... お前は私と同じように殺され、そして暗闇の夢に永遠に閉じ込めら"
+"れる。"
+
+#. [message]: speaker=Gwiti Ha'atel
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:268
+msgid "Anyone who stands in my way will be burned to ashes!"
+msgstr "私の道を邪魔する者は、皆、灰と化すのだ！"
+
+#. [message]: speaker=Gwiti Ha'atel
+#: TDH/scenarios/02_Brother_Against_Brother.cfg:282
+msgid "Now you shall die!"
+msgstr "今こそ、お前は死ぬのだ！"
+
+#. [unit_type]: id=Deathmaster, race=human
+#: TDH/units/Deathmaster.cfg:5
+msgid "Deathmaster"
+msgstr "死人使い"
+
+#. [unit_type]: id=Deathmaster, race=human
+#. [unit_type]: id=Grimreaper, race=human
+#: TDH/units/Deathmaster.cfg:19 TDH/units/Grimreaper.cfg:21
+msgid ""
+"His wanderings on a dark path have given him power normally not granted to "
+"mortals, but with a terrible cost: the undead that he gave his soul to are "
+"gradually claiming his mortal shell too, and with time, he will be a true "
+"undead and a terror to all that lives."
+msgstr ""
+"彼は闇の小径で彷徨う事によって、通常では人間には得られない力を与えられました"
+"が、その代償は恐るべきものです。彼が魂を与えた不死の者は、次第に彼の精神に忍"
+"び込んでおり、時を経て、彼は完全な不死の者となり、生ける者全てから恐れられる"
+"ようになるでしょう。"
+
+#. [unit_type]: id=Demilich, race=undead
+#: TDH/units/Demilich.cfg:5
+msgid "Demilich"
+msgstr "デミリッチ"
+
+#. [unit_type]: id=Demilich, race=undead
+#: TDH/units/Demilich.cfg:25
+msgid ""
+"After too much time dabbling with forbidden magics and dark arts, these magi "
+"have begun to pay a heavy price. Demiliches have started losing their "
+"bodies, becoming undead themselves. With time, they may become fully undead, "
+"and feared by all alike."
+msgstr ""
+"禁断の魔術と黒魔術にあまりにも長く関わった事で、この魔術師は重い代償を払い始"
+"めています。デミリッチは肉体を失い始めており、不死の者に変わりつつあります。"
+"時を経て、彼等は完全に不死の体となり、生ける者全てから恐れられるようになるで"
+"しょう。"
+
+#. [unit_type]: id=Dread Lich, race=undead
+#: TDH/units/Dread_Lich.cfg:5
+msgid "Dread Lich"
+msgstr "恐怖のリッチ"
+
+#. [unit_type]: id=Dread Lich, race=undead
+#: TDH/units/Dread_Lich.cfg:26
+msgid ""
+"At long last, Ha’atel has paid the ultimate sacrifice for the dark arts into "
+"which he has delved, and has, himself, entered into undeath. At the apex of "
+"his power, he has become a lich, a waking embodiment of dread. He has, "
+"beyond any doubt, passed the point of no return, and his power and "
+"immortality will have to provide consolation for what he has lost in his "
+"quest to achieve them."
+msgstr ""
+"遂に Ha’atel は暗黒の芸術に対して彼が探求してきた事へ究極の犠牲を払い、彼自身"
+"不死の存在へと足を踏み入れました。彼の力の頂点で、歩く恐怖の権化リッチへと変"
+"わったのです。彼は全く疑いなく、もう戻れない一線を超え、彼の力と不死はそれを"
+"成し遂げるために彼の冒険で失ってきたものへの慰めをもたらすに違いないでしょ"
+"う。"
+
+#. [unit_type]: id=Grimreaper, race=human
+#: TDH/units/Grimreaper.cfg:5
+msgid "Grimreaper"
+msgstr "死神"
+
+#. [unit_type]: id=Initiate, race=human
+#: TDH/units/Initiate.cfg:5
+msgid "Initiate"
+msgstr "下級術師"
+
+#. [unit_type]: id=Initiate, race=human
+#: TDH/units/Initiate.cfg:19
+msgid ""
+"Dabbling in the Death Magic, this young Ha’atel’s lust for power has "
+"weakened him to the point where he is too weak to attack in regular combat."
+msgstr ""
+"死の魔術を少し触っただけのこの若い Ha’atel は、力への渇望により、通常の戦闘に"
+"おける攻撃ができない程に弱くなっています。"
