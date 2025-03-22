@@ -9,7 +9,7 @@
 
 > _Lead fugitive dark sorcerer Gwiti Ha’atel to mastery of the undead hordes._
 
-This project aims to complete and expand the original campaign, offering players a compelling narrative-driven experience with deep strategic gameplay elements.
+This project aims to complete and expand the original campaign.
 
 ## Installation
 
