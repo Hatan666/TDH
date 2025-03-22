@@ -1,9 +1,5 @@
 # The Dark Hordes
 
-# Script for Descriptions and First Scenario
-
-# Campaign Description
-
 *Lead fugitive dark sorcerer Gwiti Ha’atel to mastery of the undead hordes.*
 
 *(Intermediate level, 9 scenarios)*
