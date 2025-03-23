@@ -1,13 +1,15 @@
 # The Dark Hordes: Completed
 
-![The Dark Hordes Campaign](https://img.shields.io/badge/Wesnoth-Campaign-darkred)
+![Wesnoth Campaign](https://img.shields.io/badge/Wesnoth-Campaign-darkred)
 ![License](https://img.shields.io/badge/license-GPL--2.0-blue)
 
 ## Overview
 
 **The Dark Hordes: Completed** is an enhanced campaign for the turn-based strategy game [Battle for Wesnoth](https://www.wesnoth.org).
 
-> _Lead fugitive dark sorcerer Gwiti Ha’atel to mastery of the undead hordes._
+> *Lead fugitive necromancer Gwiti Ha’atel to mastery of the undead hordes.*
+
+**Currently only 1 scenario is playable enough.**
 
 This project aims to complete and expand the original campaign.
 
@@ -15,15 +17,16 @@ This project aims to complete and expand the original campaign.
 
 ### Requirements
 
-- Battle for Wesnoth 1.18.0 or newer (1.18.x series)
+* Battle for Wesnoth 1.18.0 or newer (1.18.x series)
+* Battle for Wesnoth 1.19.0 or newer (1.19.x series, unsupported!)
 
 ### Installation Methods
 
 **Method 1: In-Game Add-ons Server (Recommended)**
-- Launch Battle for Wesnoth
-- Navigate to **Add-ons**
-- Search for **The Dark Hordes: Completed**
-- Click **Install**
+* Launch Battle for Wesnoth
+* Navigate to **Add-ons**
+* Search for **The Dark Hordes: Completed**
+* Click **Install**
 
 **Method 2: Manual Installation via Git**
 ```bash
@@ -46,15 +49,15 @@ I welcome contributions from the community! Here’s how you can help:
 
 ### Contribution Areas
 
-- Scenario design
-- Dialogue writing
-- Unit balancing
-- Bug fixes
+* Scenario design
+* Dialogue writing
+* Unit balancing
+* Bug fixes
 
 ## Community
 
-- Join the discussion on the [Wesnoth Forums](https://forums.wesnoth.org)
-- Report issues on my [GitHub Issue Tracker](https://github.com/Hatan666/TDH/issues)
+* Join the discussion on the [Wesnoth Forums](https://forums.wesnoth.org)
+* Report issues on my [GitHub Issue Tracker](https://github.com/Hatan666/TDH/issues)
 
 ## License
 
@@ -62,4 +65,4 @@ This project is licensed under the [GNU General Public License v2.0](LICENSE).
 
 ---
 
-_Embrace the darkness and lead your undead hordes to victory!_
+*Embrace the darkness and lead your undead hordes to victory!*
