@@ -22,7 +22,7 @@ This project aims to complete and expand the original campaign.
 
 ### Installation Methods
 
-**Method 1: In-Game Add-ons Server (Recommended)**
+**Method 1: In-Game Add-ons Server (Recommended but not yet released)**
 * Launch Battle for Wesnoth
 * Navigate to **Add-ons**
 * Search for **The Dark Hordes: Completed**
@@ -41,11 +41,11 @@ To locate your user data directory, refer to [the Wesnoth.org wiki](https://wiki
 I welcome contributions from the community! Here’s how you can help:
 
 1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-improvement`)
+2. **Create** feature branch (`git checkout -b feature/amazing-improvement`)
 3. **Implement** your changes
 4. **Commit** with clear messages (`git commit -m 'Add amazing improvement'`)
 5. **Push** to your branch (`git push origin feature/amazing-improvement`)
-6. Submit a **Pull Request**
+6. Submit **Pull Request**
 
 ### Contribution Areas
 
