@@ -1,11 +1,11 @@
-# The Dark Hordes: Completed
+# The Dark Hordes: Reborn
 
 ![Wesnoth Campaign](https://img.shields.io/badge/Wesnoth-Campaign-darkred)
 ![License](https://img.shields.io/badge/license-GPL--2.0-blue)
 
 ## Overview
 
-**The Dark Hordes: Completed** is an enhanced campaign for the turn-based strategy game [Battle for Wesnoth](https://www.wesnoth.org).
+**The Dark Hordes: Reborn** is an enhanced campaign for the turn-based strategy game [Battle for Wesnoth](https://www.wesnoth.org).
 
 > *Lead fugitive necromancer Gwiti Ha’atel to mastery of the undead hordes.*
 
@@ -25,7 +25,7 @@ This project aims to complete and expand the original campaign.
 **Method 1: In-Game Add-ons Server (Recommended but not yet released)**
 * Launch Battle for Wesnoth
 * Navigate to **Add-ons**
-* Search for **The Dark Hordes: Completed**
+* Search for **The Dark Hordes: Reborn**
 * Click **Install**
 
 **Method 2: Manual Installation via Git**
