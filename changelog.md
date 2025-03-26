@@ -1,4 +1,4 @@
-# Changelog for The Dark Hordes: Reborn
+# Changelog for The Dark Hordes: Mainline Candidate Version
 
 ## Version 1.0.0:
 
